@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hello World </br>
- Version= 1
+ Version= 2
  </p>'; ?> 
  </body>
 </html>
